@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Yuchen Yang
+title: Huajun He
 ---
 
 <div class="container">
